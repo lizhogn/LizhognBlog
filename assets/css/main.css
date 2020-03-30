@@ -178,6 +178,7 @@ input, select, textarea {
 	p {
 		text-align: justify;
 		margin: 0 0 2rem 0;
+		text-indent: 2em;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2947,6 +2948,7 @@ input, select, textarea {
 		header.major {
 			margin: 0 0 4rem 0;
 			text-align: center;
+			font-family: "Times New Roman", Gabriola;
 		}
 
 			header.major > :last-child {
